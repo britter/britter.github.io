@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/britter
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://benediktritter.de
+  * I am britter (https://keybase.io/britter) on keybase.
+  * I have a public key ASARFAX53Y8wEgbwnG7qxQRYkrHWJTtd8l2kS3DUsH50bAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01019ac733fd0f19cd169b877fa802b1045c13d208591fcf84a922346b56784497130a",
+            "host": "keybase.io",
+            "kid": "0120111405f9dd8f301206f09c6eeac5045892b1d6253b5df25da44b70d4b07e746c0a",
+            "uid": "3379a5611e38f71107b41618ab1f4e00",
+            "username": "britter"
+        },
+        "service": {
+            "hostname": "benediktritter.de",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.23"
+    },
+    "ctime": 1496650009,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1496649985,
+        "hash": "0457df3c9a86d791af7b25edf86886765c016f9d8345ccf32494c9ed4254527d623dfd84e5f5ae91df8a92a495132a433feb73ab823dd53a8d4e6842f192661b",
+        "seqno": 1143691
+    },
+    "prev": "8960b8318abc1aba0c09ce9602fdf575579ff4056e22207b100a366ec69cb491",
+    "seqno": 31,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgERQF+d2PMBIG8Jxu6sUEWJKx1iU7XfJdpEtw1LB+dGwKp3BheWxvYWTFAvl7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxOWFjNzMzZmQwZjE5Y2QxNjliODc3ZmE4MDJiMTA0NWMxM2QyMDg1OTFmY2Y4NGE5MjIzNDZiNTY3ODQ0OTcxMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTExNDA1ZjlkZDhmMzAxMjA2ZjA5YzZlZWFjNTA0NTg5MmIxZDYyNTNiNWRmMjVkYTQ0YjcwZDRiMDdlNzQ2YzBhIiwidWlkIjoiMzM3OWE1NjExZTM4ZjcxMTA3YjQxNjE4YWIxZjRlMDAiLCJ1c2VybmFtZSI6ImJyaXR0ZXIifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImJlbmVkaWt0cml0dGVyLmRlIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMyJ9LCJjdGltZSI6MTQ5NjY1MDAwOSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDk2NjQ5OTg1LCJoYXNoIjoiMDQ1N2RmM2M5YTg2ZDc5MWFmN2IyNWVkZjg2ODg2NzY1YzAxNmY5ZDgzNDVjY2YzMjQ5NGM5ZWQ0MjU0NTI3ZDYyM2RmZDg0ZTVmNWFlOTFkZjhhOTJhNDk1MTMyYTQzM2ZlYjczYWI4MjNkZDUzYThkNGU2ODQyZjE5MjY2MWIiLCJzZXFubyI6MTE0MzY5MX0sInByZXYiOiI4OTYwYjgzMThhYmMxYWJhMGMwOWNlOTYwMmZkZjU3NTU3OWZmNDA1NmUyMjIwN2IxMDBhMzY2ZWM2OWNiNDkxIiwic2Vxbm8iOjMxLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQIHhgHq0c3Ty/yMhdHswy/Ix/CEu9vdq5d361UnLMg2qijXWPRRgrJdZY0ZlLY95otSN9ZlTW+DBbdXoMllh9wyoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCD7Oz3O8oYAGjxS3/yToe1ph1f6f4DwKkEtk+H1T58X76N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/britter
+
+==================================================================
