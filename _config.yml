@@ -5,9 +5,9 @@ url: "http://www.benediktritter.de"
 
 
 # Delete the lines you don't need
-email: benedikt@gradle.com
 github_username:  britter
-twitter_username: benediktritter
+mastodon_homeserver: chaos.social
+mastodon_username: britter
 linkedin_username: benedikt-ritter-83847b84
 
 avatar: yes
