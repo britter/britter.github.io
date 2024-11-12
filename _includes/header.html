@@ -12,22 +12,22 @@
 
         <ul>
             {% if site.github_username %}
-            <li><a class="fa-brands fa-2x fa-github" href="https://github.com/{{ site.github_username }}"><span class="description">GitHub</span></a></li>
+            <li><i class="fa-brands fa-2x fa-github" href="https://github.com/{{ site.github_username }}"><span class="description">GitHub</span></i></li>
             {% endif %}
             {% if site.mastodon_username %}
-            <li><a class="fa-brands fa-2x fa-mastodon" href="https://{{ site.mastodon_homeserver}}/@{{ site.mastodon_username }}"><span class="description">Mastodon</span></a></li>
+            <li><i class="fa-brands fa-2x fa-mastodon" href="https://{{ site.mastodon_homeserver}}/@{{ site.mastodon_username }}"><span class="description">Mastodon</span></i></li>
             {% endif %}
             {% if site.blog_url %}
-            <li><a class="fa fa-2x fa-tags" href="{{ site.baseurl }}{{ site.blog_url }}"><span class="description">Blog</span></a></li>
+            <li><i class="fa fa-2x fa-tags" href="{{ site.baseurl }}{{ site.blog_url }}"><span class="description">Blog</span></i></li>
             {% endif %}
             {% if site.medium_username %}
-            <li><a class="fa fa-2x fa-medium" href="https://medium.com/@{{ site.medium_username }}"><span class="description">Medium</span></a></li>
+            <li><i class="fa fa-2x fa-medium" href="https://medium.com/@{{ site.medium_username }}"><span class="description">Medium</span></i></li>
             {% endif %}
             {% if site.linkedin_username %}
-            <li><a class="fa fa-2x fa-linkedin" href="https://linkedin.com/in/{{ site.linkedin_username }}"><span class="description">Linkedin</span></a></li>
+            <li><i class="fa fa-2x fa-linkedin" href="https://linkedin.com/in/{{ site.linkedin_username }}"><span class="description">Linkedin</span></i></li>
             {% endif %}
             {% if site.email %}
-            <li><a class="fa fa-2x fa-envelope" href="mailto:{{ site.email }}"><span class="description">Email</span></a></li>
+            <li><i class="fa fa-2x fa-envelope" href="mailto:{{ site.email }}"><span class="description">Email</span></i></li>
             {% endif %}
         </ul>
 </div>
